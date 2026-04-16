@@ -49,6 +49,7 @@ These filters allow users to drill down into specific time periods and locations
 ## Dashboard Files
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/UberTableauViz/UberDashboard">Uber Tableau Dashboard</a>
 - <a href="https://github.com/mugabepatricia/Uber_Data_Analysis_Dashboard-Tableau/blob/main/Uber.csv">Uber data</a>
+- <a href="https://github.com/mugabepatricia/Uber_Data_Analysis_Dashboard-Tableau/blob/main/Uber%20Viz.png">Dashboard Preview</a>
 ## Contact
 mugabepatricia@gmail.com
 Feel free to connect with me for feedback, collaboration, or opportunities in data analytics
