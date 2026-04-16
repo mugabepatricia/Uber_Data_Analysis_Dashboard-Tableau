@@ -48,6 +48,7 @@ These filters allow users to drill down into specific time periods and locations
 	•	Integrate geospatial maps for location analysis
 ## Dashboard Files
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/UberTableauViz/UberDashboard">Uber Tableau Dashboard</a>
+- <a href="https://github.com/mugabepatricia/Uber_Data_Analysis_Dashboard-Tableau/blob/main/Uber.csv">Uber data</a>
 ## Contact
 mugabepatricia@gmail.com
 Feel free to connect with me for feedback, collaboration, or opportunities in data analytics
