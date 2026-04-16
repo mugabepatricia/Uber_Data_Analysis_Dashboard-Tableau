@@ -9,8 +9,8 @@ The dashboard provides a comprehensive view of ride activity across time, locati
 	- Present key performance indicators (KPIs) in a clear, interactive format
 ## Dashboard Features
 1. Time-Based Analysis
-  - Area Chart: Total Trips by Month
-    July recorded the highest trips (12,889)
+   	- Area Chart: Total Trips by Month
+      July recorded the highest trips (12,889)
 	- Area Chart: Revenue by Month
 	  March generated the highest revenue (4.57M)
 2. Booking Behavior Insights
@@ -42,10 +42,10 @@ These filters allow users to drill down into specific time periods and locations
 	- Revenue peaks in March, indicating possible pricing or demand variations
 	- Evening hours (around 6 PM) are the busiest for bookings
 	- Certain locations consistently outperform others in revenue generation
-  Future Improvements
-	•	Add predictive analytics for demand forecasting
-	•	Incorporate customer segmentation
-	•	Integrate geospatial maps for location analysis
+## Future Improvements
+	- Add predictive analytics for demand forecasting
+	- Incorporate customer segmentation
+	- Integrate geospatial maps for location analysis
 ## Dashboard Files
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/UberTableauViz/UberDashboard">Uber Tableau Dashboard</a>
 - <a href="https://github.com/mugabepatricia/Uber_Data_Analysis_Dashboard-Tableau/blob/main/Uber.csv">Uber data</a>
