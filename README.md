@@ -34,6 +34,7 @@ The dashboard provides a comprehensive view of ride activity across time, locati
 The dashboard includes dynamic filters for:
 	- Date
 	- Pickup Location
+
 These filters allow users to drill down into specific time periods and locations for deeper insights.
 ## Tools & Technologies
 	- Tableau (Data Visualization)
